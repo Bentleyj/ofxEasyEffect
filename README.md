@@ -1,5 +1,5 @@
 # ofxEasyEffect
-An Easy Shader Manager with Gui controls
+An Easy Shader Manager with Gui controls for openframeworks. You have to write your own shaders but that's lik 99% of the fun anyway so yay!
 
 # Usage
 See example
@@ -13,5 +13,9 @@ Once you've set it up all you need to do is have two framebuffer objects and use
 use effect.drawGui() to draw the gui which is controllable.
 
 Have fun!
+
+# Installation
+Clone this repository into your addons folder.
+The only dependency is ofxGui which comes standard with oF
 
 
